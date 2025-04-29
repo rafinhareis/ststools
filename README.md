@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/rafinhareis/ststools/raw/main/logo.png" alt="STSTools Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/rafinhareis/ststools/main/logo.png" alt="STSTools Logo" width="180"/>
 </p>
-
 <h1 align="center">STSTools</h1>
 <p align="center"><strong>Data Analysis for STS Measurements from Nanosurf, Omicron, and Nanonis</strong></p>
 
