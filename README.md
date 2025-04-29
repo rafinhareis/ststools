@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="STSTools Logo" width="180"/>
+  <img src="https://github.com/rafinhareis/ststools/raw/main/logo.png" alt="STSTools Logo" width="180"/>
 </p>
 
 <h1 align="center">STSTools</h1>
