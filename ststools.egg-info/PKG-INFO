@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ststools
+Version: 6.6.0
+Summary: Visualizacao de sts nanosurf, omicron e nanonis
+Author: Rafael Reis Barreto
+Author-email: rafinhareis17@gmail.com
+License: MIT License
+Keywords: nanosurf,omicron,sts
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: ipywidgets
+Requires-Dist: Pillow
+Requires-Dist: scikit-learn
+Requires-Dist: igor
+Requires-Dist: h5py
+Requires-Dist: NSFopen
+
+# Visualizacao de STS do software nanosurf

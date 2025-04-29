@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+ipywidgets
+Pillow
+scikit-learn
+igor
+h5py
+NSFopen
