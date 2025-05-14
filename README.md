@@ -18,6 +18,19 @@ Built to help researchers process, inspect, and interpret I(V) spectra and grid 
 
 > ⚠️ *Important: Do not rename exported `.ibw` or `.dat` files — file structure is metadata-dependent.*
 
+## 📖 Cite This Project
+
+If **STStools** has contributed to your research or publication, please consider citing it. Citing the software helps support its continued development and acknowledges the effort behind its creation.
+
+### 📌 Citation
+
+> Reis Barreto, R. (2025). *STStools: A Python Library for Scanning Tunneling Spectroscopy (STS)* (Version 7.0.0). Zenodo.
+ [https://doi.org/10.5281/zenodo.15411492](https://doi.org/10.5281/zenodo.15411492)
+>
+> 
+
+
+
 ---
 
 ## 📦 Installation
