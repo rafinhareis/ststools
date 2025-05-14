@@ -24,7 +24,7 @@ If **STStools** has contributed to your research or publication, please consider
 
 ### 📌 Citation
 
-> Reis Barreto, R. (2025). *STStools: A Python Library for Scanning Tunneling Spectroscopy (STS)* (Version 7.0.0). Zenodo.
+> Barreto, R. R. STStools: A Python Library for Scanning Tunneling Spectroscopy (STS)* (Version 7.0.0), Zenodo, (2025). 
  [https://doi.org/10.5281/zenodo.15411492](https://doi.org/10.5281/zenodo.15411492)
 >
 > 
